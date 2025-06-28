@@ -68,6 +68,5 @@ Your service model will determine responsibility for things like:
 
 ## References
 
+http://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/
 
-
----
