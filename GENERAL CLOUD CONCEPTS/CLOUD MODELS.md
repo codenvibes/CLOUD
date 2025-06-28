@@ -6,7 +6,8 @@ What are cloud models? ==Cloud models define the deployment type of cloud resour
 
 Let’s start with a private cloud. A private cloud is, in some ways, the natural evolution from a corporate datacenter. It’s a cloud (delivering IT services over the internet) that’s used by a single entity. Private cloud provides much greater control for the company and its IT department. However, it also comes with greater cost and fewer of the benefits of a public cloud deployment. Finally, a private cloud may be hosted from your on site datacenter. It may also be hosted in a dedicated datacenter offsite, potentially even by a third party that has dedicated that datacenter to your company.
 
-
+**Real-Life Example:**
+A bank has strict data compliance rules and runs its own private cloud using OpenStack on servers in its own data center. Only the bank’s departments access it.
 
 ---
 
@@ -22,6 +23,9 @@ A startup runs its entire website and databases on AWS EC2 and S3 — no servers
 ## Hybrid cloud
 
 A hybrid cloud is a computing environment that uses both public and private clouds in an inter-connected environment. A hybrid cloud environment can be used to allow a private cloud to surge for increased, temporary demand by deploying public cloud resources. Hybrid cloud can be used to provide an extra layer of security. For example, users can flexibly choose which services to keep in public cloud and which to deploy to their private cloud infrastructure.
+
+**Real-Life Example:**
+A bank has strict data compliance rules and runs its own private cloud using OpenStack on servers in its own data center. Only the bank’s departments access it.
 
 The following table highlights a few key comparative aspects between the cloud models.
 
