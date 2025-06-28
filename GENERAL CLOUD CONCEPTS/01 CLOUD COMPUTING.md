@@ -4,7 +4,7 @@ Because cloud computing uses the internet to deliver these services, it doesn’
 
 ---
 
-## CAREERS IN CLOUD COMPUTING
+## Careers In Cloud Computing
 
 | **Domain**     | **Role Title**                | **Role Description**                                                                                                                                      |
 | -------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
