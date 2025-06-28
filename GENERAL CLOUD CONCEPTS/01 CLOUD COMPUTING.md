@@ -27,7 +27,7 @@ Because cloud computing uses the internet to deliver these services, it doesn’
 
 ---
 
-## Shared esponsibility model
+## Shared Responsibility Model
 
 
 ---
