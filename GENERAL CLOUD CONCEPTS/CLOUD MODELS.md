@@ -20,8 +20,6 @@ A hybrid cloud is a computing environment that uses both public and private clou
 
 The following table highlights a few key comparative aspects between the cloud models.
 
-Expand table
-
 |**Public cloud**|**Private cloud**|**Hybrid cloud**|
 |---|---|---|
 |No capital expenditures to scale up|Organizations have complete control over resources and security|Provides the most flexibility|
