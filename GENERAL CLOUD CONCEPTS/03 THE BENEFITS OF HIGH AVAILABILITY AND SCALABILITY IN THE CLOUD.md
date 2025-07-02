@@ -52,11 +52,8 @@ So the difference between 99.9% and 99.99% is about **39 extra minutes of uptime
 ### Things to watch out for
 
 - **Exclusions**: SLAs often exclude planned maintenance or downtime due to things outside the provider’s control.
-    
 - **Compensation**: SLA breaches usually result in small credits, not big payouts.
-    
 - **Shared responsibility**: The SLA covers only what the provider manages — if your own app or config fails, that’s on you.
-    
 
 
 ✅ **Key takeaway**: An SLA is both a guarantee and a risk management tool — but the percentage guarantees must align with how critical uptime is for your business.
