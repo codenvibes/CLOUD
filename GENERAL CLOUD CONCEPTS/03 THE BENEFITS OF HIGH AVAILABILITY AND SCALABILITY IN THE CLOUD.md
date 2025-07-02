@@ -14,7 +14,6 @@ Absolutely — let’s break down **SLAs** in cloud computing, and then I’ll e
 ### What is an SLA?
 
 **SLA** stands for **Service Level Agreement**. It’s a formal contract between a cloud service provider (like AWS, Azure, Google Cloud) and a customer. It defines:
-
 - **What level of service is guaranteed** — typically things like uptime/availability, response time, support response, performance, etc.
 - **How service is measured** — for example, “99.9% uptime per month”.
 - **Penalties or credits** — what happens if the provider fails to meet the guarantee (e.g., you get a partial refund or credit).
@@ -22,17 +21,11 @@ Absolutely — let’s break down **SLAs** in cloud computing, and then I’ll e
 ### Common SLA metrics
 
 The main one is **availability** — how much time the service must be operational during a given period (usually a month).
-
 For example:
-
 - **99% uptime**
-    
 - **99.9% uptime** (often called “three nines”)
-    
 - **99.99% uptime** (“four nines”)
-    
 - **99.999% uptime** (“five nines” — very rare and expensive)
-    
 
 
 ### What do the percentages actually mean?
