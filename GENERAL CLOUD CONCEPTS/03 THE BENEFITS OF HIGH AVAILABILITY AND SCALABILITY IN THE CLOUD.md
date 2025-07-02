@@ -56,9 +56,7 @@ So the difference between 99.9% and 99.99% is about **39 extra minutes of uptime
 - **Shared responsibility**: The SLA covers only what the provider manages — if your own app or config fails, that’s on you.
 
 
-✅ **Key takeaway**: An SLA is both a guarantee and a risk management tool — but the percentage guarantees must align with how critical uptime is for your business.
-
-If you’d like, I can show you examples from AWS, Azure, or Google Cloud’s real SLAs to see how they word this in practice. Want that?
+An SLA is both a guarantee and a risk management tool — but the percentage guarantees must align with how critical uptime is for your business.
 
 ---
 
