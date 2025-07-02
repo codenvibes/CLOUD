@@ -59,9 +59,6 @@ Some common scenarios for SaaS are:
 
 ---
 
-
----
-
 ## References
 
 https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/?sharingId=C544802BEB434D58&source=docs
