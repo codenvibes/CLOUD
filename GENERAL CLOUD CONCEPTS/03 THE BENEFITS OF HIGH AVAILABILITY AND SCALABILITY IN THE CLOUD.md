@@ -62,7 +62,7 @@ An SLA is both a guarantee and a risk management tool — but the percentage gua
 
 ## Scalability
 
-Another major benefit of cloud computing is the scalability of cloud resources. Scalability refers to the ability to adjust resources to meet demand. If you suddenly experience peak traffic and your systems are overwhelmed, the ability to scale means you can add more resources to better handle the increased demand.
+Another major benefit of cloud computing is the scalability of cloud resources. ==Scalability refers to the ability to adjust resources to meet demand.== If you suddenly experience peak traffic and your systems are overwhelmed, the ability to scale means you can add more resources to better handle the increased demand.
 
 The other benefit of scalability is that you aren't overpaying for services. Because the cloud is a consumption-based model, you only pay for what you use. If demand drops off, you can reduce your resources and thereby reduce your costs.
 
