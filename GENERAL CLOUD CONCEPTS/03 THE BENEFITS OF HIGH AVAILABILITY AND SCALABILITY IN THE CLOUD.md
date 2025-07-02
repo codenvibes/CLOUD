@@ -8,7 +8,73 @@ When you’re deploying an application, a service, or any IT resources, it’s i
 
 When you’re architecting your solution, you’ll need to account for service availability guarantees. These guarantees are part of the service-level agreements (SLAs).
 
-This short video describes Azure SLAs in more detail.
+Absolutely — let’s break down **SLAs** in cloud computing, and then I’ll explain the typical percentage guarantees and why even small differences matter.
+
+
+## What is an SLA?
+
+**SLA** stands for **Service Level Agreement**. It’s a formal contract between a cloud service provider (like AWS, Azure, Google Cloud) and a customer. It defines:
+
+- **What level of service is guaranteed** — typically things like uptime/availability, response time, support response, performance, etc.
+    
+- **How service is measured** — for example, “99.9% uptime per month”.
+    
+- **Penalties or credits** — what happens if the provider fails to meet the guarantee (e.g., you get a partial refund or credit).
+    
+
+## Common SLA metrics
+
+The main one is **availability** — how much time the service must be operational during a given period (usually a month).
+
+For example:
+
+- **99% uptime**
+    
+- **99.9% uptime** (often called “three nines”)
+    
+- **99.99% uptime** (“four nines”)
+    
+- **99.999% uptime** (“five nines” — very rare and expensive)
+    
+
+
+## What do the percentages actually mean?
+
+Here’s how downtime works out per month:
+
+|SLA %|Max downtime per month|
+|---|---|
+|99%|~7.3 hours|
+|99.9%|~43.8 minutes|
+|99.99%|~4.38 minutes|
+|99.999%|~26 seconds|
+
+So the difference between 99.9% and 99.99% is about **39 extra minutes of uptime** per month — which can be critical for services that need to run 24/7, like financial systems or medical apps.
+
+
+## Why small % differences matter
+
+- **Revenue loss**: For e-commerce, minutes of downtime can cost thousands or millions in lost sales.
+    
+- **Reputation**: Frequent outages hurt customer trust.
+    
+- **Regulatory or safety impact**: Some sectors like healthcare, banking, or airlines simply can’t afford significant downtime.
+    
+
+
+## Things to watch out for
+
+- **Exclusions**: SLAs often exclude planned maintenance or downtime due to things outside the provider’s control.
+    
+- **Compensation**: SLA breaches usually result in small credits, not big payouts.
+    
+- **Shared responsibility**: The SLA covers only what the provider manages — if your own app or config fails, that’s on you.
+    
+
+
+✅ **Key takeaway**: An SLA is both a guarantee and a risk management tool — but the percentage guarantees must align with how critical uptime is for your business.
+
+If you’d like, I can show you examples from AWS, Azure, or Google Cloud’s real SLAs to see how they word this in practice. Want that?
 
 ---
 
