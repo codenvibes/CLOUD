@@ -1,6 +1,3 @@
-
----
-
 ## High availability
 
 When you’re deploying an application, a service, or any IT resources, it’s important the resources are available when needed. High availability focuses on ensuring maximum availability, regardless of disruptions or events that may occur.
