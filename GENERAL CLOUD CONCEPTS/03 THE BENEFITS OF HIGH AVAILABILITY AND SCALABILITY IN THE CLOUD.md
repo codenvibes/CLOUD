@@ -11,18 +11,15 @@ When you’re architecting your solution, you’ll need to account for service a
 Absolutely — let’s break down **SLAs** in cloud computing, and then I’ll explain the typical percentage guarantees and why even small differences matter.
 
 
-## What is an SLA?
+### What is an SLA?
 
 **SLA** stands for **Service Level Agreement**. It’s a formal contract between a cloud service provider (like AWS, Azure, Google Cloud) and a customer. It defines:
 
 - **What level of service is guaranteed** — typically things like uptime/availability, response time, support response, performance, etc.
-    
 - **How service is measured** — for example, “99.9% uptime per month”.
-    
 - **Penalties or credits** — what happens if the provider fails to meet the guarantee (e.g., you get a partial refund or credit).
-    
 
-## Common SLA metrics
+### Common SLA metrics
 
 The main one is **availability** — how much time the service must be operational during a given period (usually a month).
 
@@ -38,7 +35,7 @@ For example:
     
 
 
-## What do the percentages actually mean?
+### What do the percentages actually mean?
 
 Here’s how downtime works out per month:
 
@@ -52,7 +49,7 @@ Here’s how downtime works out per month:
 So the difference between 99.9% and 99.99% is about **39 extra minutes of uptime** per month — which can be critical for services that need to run 24/7, like financial systems or medical apps.
 
 
-## Why small % differences matter
+### Why small % differences matter
 
 - **Revenue loss**: For e-commerce, minutes of downtime can cost thousands or millions in lost sales.
     
@@ -62,7 +59,7 @@ So the difference between 99.9% and 99.99% is about **39 extra minutes of uptime
     
 
 
-## Things to watch out for
+### Things to watch out for
 
 - **Exclusions**: SLAs often exclude planned maintenance or downtime due to things outside the provider’s control.
     
