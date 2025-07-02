@@ -45,11 +45,8 @@ So the difference between 99.9% and 99.99% is about **39 extra minutes of uptime
 ### Why small % differences matter
 
 - **Revenue loss**: For e-commerce, minutes of downtime can cost thousands or millions in lost sales.
-    
 - **Reputation**: Frequent outages hurt customer trust.
-    
 - **Regulatory or safety impact**: Some sectors like healthcare, banking, or airlines simply can’t afford significant downtime.
-    
 
 
 ### Things to watch out for
