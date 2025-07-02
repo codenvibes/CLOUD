@@ -1,4 +1,3 @@
-When building or deploying a cloud application, two of the biggest considerations are uptime (or availability) and the ability to handle demand (or scale).
 
 ---
 
@@ -78,6 +77,8 @@ With horizontal scaling, if you suddenly experienced a steep jump in demand, you
 
 
 ---
+
+
 
 ## References
 
