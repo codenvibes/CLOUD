@@ -7,7 +7,7 @@ A region is a localized geographic area comprising of one or more availability d
 
 ### Availability Domains
 
-One or more 
+One or more fault tolerant data centers located within a region but connected to eachother by a low latency high bandwidth network
 
 ---
 
