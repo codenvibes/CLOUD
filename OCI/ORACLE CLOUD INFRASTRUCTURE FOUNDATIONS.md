@@ -17,6 +17,8 @@ A grouping of hardware and infrastructure within an availability domain to provi
 
 ![[Pasted image 20250801095617.png]]
 
+![[Pasted image 20250801095714.png]]
+
 ### Choosing a Region
 
 ![[Pasted image 20250801095312.png]]
