@@ -3,6 +3,8 @@
 
 ### Regions
 
+A region is a localized geographic area comprising of one or more availabil
+
 ---
 
 ## References
