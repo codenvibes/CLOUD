@@ -1,6 +1,6 @@
-
 ## OCI ARCHITECTURE
 
+![[Pasted image 20250801095100.png]]
 ### Regions
 
 A region is a localized geographic area comprising of one or more availability domains.
