@@ -9,9 +9,13 @@ A region is a localized geographic area comprising of one or more availability d
 
 One or more fault tolerant data centers located within a region but connected to each other by a low latency high bandwidth network.
 
-## Fault Domains
+### Fault Domains
 
 A grouping of hardware and infrastructure within an availability domain to provide anti affinity.
+
+### Choosing a Region
+
+![[Pasted image 20250801095312.png]]
 
 ---
 
