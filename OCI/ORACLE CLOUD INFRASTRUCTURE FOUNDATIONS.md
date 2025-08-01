@@ -11,7 +11,7 @@ One or more fault tolerant data centers located within a region but connected to
 
 ## Fault Domains
 
-A grouping of hardware and infrastructure withi
+A grouping of hardware and infrastructure within an availability domain to provide anti affinity.
 
 ---
 
