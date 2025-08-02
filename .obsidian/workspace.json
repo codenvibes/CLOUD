@@ -43,16 +43,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCI/OCI FOUNDATIONS/2. IAM.md",
+                "file": "OCI/OCI FOUNDATIONS/1. OCI INTRODUCTION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. IAM"
+              "title": "1. OCI INTRODUCTION"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCI/OCI FOUNDATIONS/2. IAM.md",
+                "file": "WHITE-BOARD/WHITE-BOARD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. IAM"
+              "title": "Outline of WHITE-BOARD"
             }
           }
         ],
@@ -199,15 +198,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72cffe5c3a4e6d49",
+  "active": "fe72f216f653a039",
   "lastOpenFiles": [
+    "OCI/OCI FOUNDATIONS/1. OCI INTRODUCTION.md",
+    "OCI/OCI FOUNDATIONS/2. IAM.md",
     "OCI/OCI FOUNDATIONS/2. NETWORKING.md",
     "OCI/OCI FOUNDATIONS/4. COMPUTE.md",
     "OCI/OCI FOUNDATIONS/6. STORAGE.md",
     "OCI/OCI FOUNDATIONS/7. SECURITY.md",
     "OCI/OCI FOUNDATIONS/8. GOVERNANCE & ADMINISTRATION.md",
-    "OCI/OCI FOUNDATIONS/2. IAM.md",
-    "OCI/OCI FOUNDATIONS/1. OCI INTRODUCTION.md",
     "OCI/OCI FOUNDATIONS",
     "WHITE-BOARD/WHITE-BOARD.md",
     "ASSETS/Pasted image 20250801100117.png",
