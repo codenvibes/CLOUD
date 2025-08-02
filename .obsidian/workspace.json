@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OCI/OCI FOUNDATIONS/Untitled.md",
+                "file": "OCI/OCI FOUNDATIONS/2. IAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2. IAM"
             }
           }
         ],
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OCI/OCI FOUNDATIONS/Untitled.md",
+                "file": "OCI/OCI FOUNDATIONS/2. IAM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2. IAM"
             }
           }
         ],
@@ -201,10 +201,11 @@
   },
   "active": "72cffe5c3a4e6d49",
   "lastOpenFiles": [
-    "OCI/OCI FOUNDATIONS/6. STORAGE.md",
-    "OCI/OCI FOUNDATIONS/Untitled.md",
-    "OCI/OCI FOUNDATIONS/4. COMPUTE.md",
     "OCI/OCI FOUNDATIONS/2. NETWORKING.md",
+    "OCI/OCI FOUNDATIONS/4. COMPUTE.md",
+    "OCI/OCI FOUNDATIONS/6. STORAGE.md",
+    "OCI/OCI FOUNDATIONS/7. SECURITY.md",
+    "OCI/OCI FOUNDATIONS/8. GOVERNANCE & ADMINISTRATION.md",
     "OCI/OCI FOUNDATIONS/2. IAM.md",
     "OCI/OCI FOUNDATIONS/1. OCI INTRODUCTION.md",
     "OCI/OCI FOUNDATIONS",
