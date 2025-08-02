@@ -6,7 +6,7 @@ Topics:
 🔹 Load Balancer + Demo  
 🔹 VCN Wizard Demo  
 🔹 Compute Basics
-#CloudComputing #OCI
+#CloudComputing
 
 
 creating an AI app on a cloud platform
