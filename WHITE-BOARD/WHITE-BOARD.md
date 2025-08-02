@@ -1,9 +1,11 @@
 
 ☁️ DAY 3 of my #CLOUD Journey!
-Completed 41 mins of the OCI Foundations course:
-- OCI Overview & Architecture
-- IAM (AuthN/AuthZ, Tenancy, Compartments)
-- Console & IAM demos
+Completed 41 mins of the @oracle OCI Foundations course:
+Topics:  
+🔹 VCN Intro + Routing + Security  
+🔹 Load Balancer + Demo  
+🔹 VCN Wizard Demo  
+🔹 Compute Basics
 #CloudComputing #OCI
 
 
